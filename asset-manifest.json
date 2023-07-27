@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/ravi-image-forgery-detection-2/static/js/main.c7e1d93f.js",
+    "static/media/IMG_3548_result_ela.png": "/ravi-image-forgery-detection-2/static/media/IMG_3548_result_ela.9e83f7fe2c0a51c9e26b.png",
+    "static/media/IMG_3552_result_ela.png": "/ravi-image-forgery-detection-2/static/media/IMG_3552_result_ela.f34b0cbff0d87db1b8ed.png",
+    "static/media/IMG_3547_result_ela.png": "/ravi-image-forgery-detection-2/static/media/IMG_3547_result_ela.2482a7957ea0d9d7398d.png",
+    "static/media/IMG_3548_result_clone.png": "/ravi-image-forgery-detection-2/static/media/IMG_3548_result_clone.418ea8f27270b6cbdf75.png",
+    "static/media/IMG_3551_result_clone.png": "/ravi-image-forgery-detection-2/static/media/IMG_3551_result_clone.06a812d1f4ce84254261.png",
+    "static/media/IMG_3549_result_clone.png": "/ravi-image-forgery-detection-2/static/media/IMG_3549_result_clone.61aedd6eed1eeb0bcbb1.png",
+    "static/media/IMG_3550_result_ela.png": "/ravi-image-forgery-detection-2/static/media/IMG_3550_result_ela.88f930f8d475c54fbde8.png",
+    "static/media/IMG_3550_result_clone.png": "/ravi-image-forgery-detection-2/static/media/IMG_3550_result_clone.7ac40d5219a5060f4d81.png",
+    "static/media/IMG_3551_result_ela.png": "/ravi-image-forgery-detection-2/static/media/IMG_3551_result_ela.c7d951403f3ddabde81f.png",
+    "static/media/IMG_3552_result_clone.png": "/ravi-image-forgery-detection-2/static/media/IMG_3552_result_clone.c221813209ed3116dc4b.png",
+    "static/media/IMG_3547_result_clone.png": "/ravi-image-forgery-detection-2/static/media/IMG_3547_result_clone.a27ac7d170ec9fd7d791.png",
+    "static/media/IMG_3549_result_ela.png": "/ravi-image-forgery-detection-2/static/media/IMG_3549_result_ela.b372aa1b89ed8125bbda.png",
+    "static/media/home-page.png": "/ravi-image-forgery-detection-2/static/media/home-page.b0e93a44bd36c3b8da86.png",
+    "static/media/loader.png": "/ravi-image-forgery-detection-2/static/media/loader.0af003c806d2f5052673.png",
+    "static/media/kpmg-logo.png": "/ravi-image-forgery-detection-2/static/media/kpmg-logo.31e0f45cfdf60a82edc0.png",
+    "index.html": "/ravi-image-forgery-detection-2/index.html",
+    "main.c7e1d93f.js.map": "/ravi-image-forgery-detection-2/static/js/main.c7e1d93f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c7e1d93f.js"
+  ]
+}
